@@ -35,20 +35,15 @@ I study both at UniBIT and SoftUni, but for many things I'm self-taught. There a
 ---
 
 # 📚 Non-Technical Interests
-### 🎮
-It's obvious that I take deep interest in video games, not only mindlessly playing them, but also analysing, breaking them down by elements, and trying to understand and gather ideas, concepts, methodologies, and so on. 
+#### 🎮 - It's obvious that I take deep interest in video games, not only mindlessly playing them, but also analysing, breaking them down by elements, and trying to understand and gather ideas, concepts, methodologies, and so on. 
 
-### 🏋️
-I also love working out, eating well and taking care of my health in other ways, believing that a strong mind in a weak body is as useless as the other way around.
+#### 🏋️ - I also love working out, eating well and taking care of my health in other ways, believing that a strong mind in a weak body is as useless as the other way around.
 
-### 📖
-I love reading a lot of books, both fictional(fantasy, horror/thriller, historical fiction) and non-fictional(history, philosophy, biographies).
+#### 📖 - I love reading a lot of books, both fictional(fantasy, horror/thriller, historical fiction) and non-fictional(history, philosophy, biographies).
 
-### 🎹 
-A hobby I've picked up a couple of years ago is music composition and sound design, applicable in many fields and a good variety for a programmer.
+#### 🎹 - A hobby I've picked up a couple of years ago is music composition and sound design, applicable in many fields and a good variety for a programmer.
 
-### 🎥
-I also record and edit videos
+#### 🎥 - I also record and edit videos
 
 
 
