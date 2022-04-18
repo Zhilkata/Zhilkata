@@ -47,12 +47,19 @@ I study both at UniBIT and SoftUni, but for many things I'm self-taught. There a
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhilkata&show_icons=true&theme=gruvbox)](https://github.com/Zhilkata/Zhilkata)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhilkata&layout=compact&theme=gruvbox)](https://github.com/Zhilkata/Zhilkata)
+<a href="https://github.com/Zhilkata/Zhilkata">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zhilkata&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/Zhilkata/Zhilkata">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhilkata&theme=gruvbox" />
+</a>
+
 
 
 
 <!--
 Here are some ideas to get you started:
 [![Header](https://raw.githubusercontent.com/Zhilkata/Zhilkata/Zhilkata/readme_header.png "Header")] - да се направи лого в Inkscape + banner
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhilkata&show_icons=true&theme=gruvbox)](https://github.com/Zhilkata/Zhilkata)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhilkata&layout=compact&theme=gruvbox)](https://github.com/Zhilkata/Zhilkata)
 
