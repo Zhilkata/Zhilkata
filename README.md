@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")]
+[![Header](https://raw.githubusercontent.com/Zhilkata/Zhilkata/Zhilkata/readme_header.png "Header")]
 
 <!--
 Here are some ideas to get you started:
