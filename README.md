@@ -1,5 +1,5 @@
 # Welcome to my profile!
-
+I'm Martin Zhelev, from Bulgaria 🇧🇬
 I hope that you'll find something useful or interesting here. This is my only profile on GitHub, so any project that I'm serious about is maintained in this place. 
 
 ---
@@ -43,7 +43,12 @@ I study both at UniBIT and SoftUni, but for many things I'm self-taught. There a
 
 #### 🎹 - A hobby I've picked up a couple of years ago is music composition and sound design, applicable in many fields and a good variety for a programmer.
 
-#### 🎥 - I also record and edit videos
+#### 🎥 - I also record and edit videos.
+
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhilkata&show_icons=true&theme=gruvbox)](https://github.com/Zhilkata/Zhilkata)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhilkata&layout=compact&theme=gruvbox)](https://github.com/Zhilkata/Zhilkata)
 
 
 
